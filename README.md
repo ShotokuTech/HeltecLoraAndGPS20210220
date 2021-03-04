@@ -5,5 +5,6 @@ This Arduino sketch picks up where we left off in the video below. In this sketc
 
 New Heltec ESP32 LoRa Update and Connecting to a GPS Module.
 https://youtu.be/bBFnIuqFutc
+![New Heltec ESP32 LoRa Update and Connecting to a GPS Module](https://github.com/ShotokuTech/HeltecLoraAndGPS20210220/blob/main/new%20heltec%20lora.png)
 Github ShotokuTech/DeviceExample20210114 
 https://github.com/ShotokuTech/DeviceExample20210114
